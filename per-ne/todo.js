@@ -1,1 +1,2 @@
 // ! katet
+// ! Bodrumi ne radhe
