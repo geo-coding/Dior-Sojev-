@@ -1,2 +1,2 @@
-// ! katet
-// ! Bodrumi ne radhe
+// katet
+// ? Manuali per kataster     nr objekti 72217082
